@@ -10,12 +10,6 @@ namespace superconsole
             
             Console.WriteLine($"Hello {name}");
             
-            string ex = Console.ReadLine();
-            
-            if(ex == "exit")
-				;
-            
-            
         }
     }
 }
