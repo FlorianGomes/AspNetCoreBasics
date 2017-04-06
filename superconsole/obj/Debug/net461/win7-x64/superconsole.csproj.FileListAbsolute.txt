@@ -1,0 +1,7 @@
+C:\Users\fg1002\superconsole\bin\Debug\net461\win7-x64\superconsole.runtimeconfig.json
+C:\Users\fg1002\superconsole\bin\Debug\net461\win7-x64\superconsole.runtimeconfig.dev.json
+C:\Users\fg1002\superconsole\bin\Debug\net461\win7-x64\superconsole.exe
+C:\Users\fg1002\superconsole\bin\Debug\net461\win7-x64\superconsole.pdb
+C:\Users\fg1002\superconsole\obj\Debug\net461\win7-x64\superconsole.AssemblyInfo.cs
+C:\Users\fg1002\superconsole\obj\Debug\net461\win7-x64\superconsole.exe
+C:\Users\fg1002\superconsole\obj\Debug\net461\win7-x64\superconsole.pdb
