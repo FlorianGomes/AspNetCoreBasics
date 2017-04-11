@@ -4782,9 +4782,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       }
-    },
-    ".NETFramework,Version=v4.6.1": {},
-    ".NETFramework,Version=v4.6.1/win7-x64": {}
+    }
   },
   "libraries": {
     "Libuv/1.9.1": {
@@ -10371,8 +10369,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
       "Microsoft.NETCore.App >= 1.1.1"
-    ],
-    ".NETFramework,Version=v4.6.1": []
+    ]
   },
   "packageFolders": {
     "C:\\Users\\fg1002\\.nuget\\packages\\": {}
@@ -10380,24 +10377,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fg1002\\superconsole\\superconsole.csproj",
+      "projectUniqueName": "C:\\Users\\fg1002\\COREPRJS\\AspNetCoreBasics\\superconsole\\superconsole.csproj",
       "projectName": "superconsole",
-      "projectPath": "C:\\Users\\fg1002\\superconsole\\superconsole.csproj",
-      "outputPath": "C:\\Users\\fg1002\\superconsole\\obj\\",
+      "projectPath": "C:\\Users\\fg1002\\COREPRJS\\AspNetCoreBasics\\superconsole\\superconsole.csproj",
+      "outputPath": "C:\\Users\\fg1002\\COREPRJS\\AspNetCoreBasics\\superconsole\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
-        "netcoreapp1.1",
-        "net461"
+        "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/superconsole.dll": "C:\\Users\\fg1002\\superconsole\\bin\\placeholder\\netcoreapp1.1\\superconsole.dll",
-        "lib/net461/superconsole.dll": "C:\\Users\\fg1002\\superconsole\\bin\\placeholder\\net461\\superconsole.dll"
+        "lib/netcoreapp1.1/superconsole.dll": "C:\\Users\\fg1002\\COREPRJS\\AspNetCoreBasics\\superconsole\\bin\\placeholder\\netcoreapp1.1\\superconsole.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
-          "projectReferences": {}
-        },
-        "net461": {
           "projectReferences": {}
         }
       }
@@ -10410,8 +10402,7 @@
             "version": "1.1.1"
           }
         }
-      },
-      "net461": {}
+      }
     },
     "runtimes": {
       "win7-x64": {

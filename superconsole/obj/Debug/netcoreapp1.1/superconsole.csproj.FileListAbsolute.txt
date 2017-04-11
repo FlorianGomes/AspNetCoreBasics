@@ -6,3 +6,11 @@ C:\Users\fg1002\superconsole\bin\Debug\netcoreapp1.1\superconsole.pdb
 C:\Users\fg1002\superconsole\obj\Debug\netcoreapp1.1\superconsole.AssemblyInfo.cs
 C:\Users\fg1002\superconsole\obj\Debug\netcoreapp1.1\superconsole.dll
 C:\Users\fg1002\superconsole\obj\Debug\netcoreapp1.1\superconsole.pdb
+C:\Users\fg1002\COREPRJS\AspNetCoreBasics\superconsole\bin\Debug\netcoreapp1.1\superconsole.deps.json
+C:\Users\fg1002\COREPRJS\AspNetCoreBasics\superconsole\bin\Debug\netcoreapp1.1\superconsole.runtimeconfig.json
+C:\Users\fg1002\COREPRJS\AspNetCoreBasics\superconsole\bin\Debug\netcoreapp1.1\superconsole.runtimeconfig.dev.json
+C:\Users\fg1002\COREPRJS\AspNetCoreBasics\superconsole\bin\Debug\netcoreapp1.1\superconsole.dll
+C:\Users\fg1002\COREPRJS\AspNetCoreBasics\superconsole\bin\Debug\netcoreapp1.1\superconsole.pdb
+C:\Users\fg1002\COREPRJS\AspNetCoreBasics\superconsole\obj\Debug\netcoreapp1.1\superconsole.AssemblyInfo.cs
+C:\Users\fg1002\COREPRJS\AspNetCoreBasics\superconsole\obj\Debug\netcoreapp1.1\superconsole.dll
+C:\Users\fg1002\COREPRJS\AspNetCoreBasics\superconsole\obj\Debug\netcoreapp1.1\superconsole.pdb
