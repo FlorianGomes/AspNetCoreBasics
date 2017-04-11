@@ -1,4 +1,5 @@
-﻿using System;
+﻿using static System.Console;
+using static System.DateTime;
 
 namespace superconsole
 {
@@ -6,9 +7,9 @@ namespace superconsole
     {
         static void Main(string[] args)
         {
-            string name = Console.ReadLine();
+            string name = "WORLD!!";
             
-            Console.WriteLine($"Hello {name}");
+            WriteLine($"Hello {name}. The Time is "+ Now.ToString("t"));
             
         }
     }
